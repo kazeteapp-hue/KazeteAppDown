@@ -1,9 +1,9 @@
 {
-  "version": 100,
+  "version": 1,
   "changelog": [
-    "Ghh",
-    "Nnb"
+    "تم اصلاح شكل التطبيق.",
+    "تحسينات"
   ],
-  "timestamp": "2025-08-07T18:47:50.867Z",
+  "timestamp": "2025-08-13T08:13:10.180Z",
   "download_url": "https://cdn.jsdelivr.net/gh/kazeteapp-hue/KazeteAppDown@main/KazeteApp_Update.apk"
 }

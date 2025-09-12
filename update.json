@@ -1,9 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
+  "apk_filename": "KazeteApp_V2.0.apk",
   "changelog": [
-    "تم اصلاح شكل التطبيق.",
-    "تحسينات"
+    "لاتنتل",
+    "نتاا"
   ],
-  "timestamp": "2025-08-13T08:13:10.180Z",
-  "download_url": "https://cdn.jsdelivr.net/gh/kazeteapp-hue/KazeteAppDown@main/KazeteApp_Update.apk"
+  "timestamp": "2025-09-12T23:16:34.848Z",
+  "download_url": "https://cdn.jsdelivr.net/gh/kazeteapp-hue/KazeteAppDown@main/KazeteApp_V2.0.apk"
 }

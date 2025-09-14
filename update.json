@@ -1,0 +1,10 @@
+{
+  "version": 20,
+  "apk_filename": "KazeteApp_V20.apk",
+  "changelog": [
+    "تم اصلاح ثغرة",
+    "تحسين المؤثرات"
+  ],
+  "timestamp": "2025-09-13T13:29:53.080Z",
+  "download_url": "https://cdn.jsdelivr.net/gh/kazeteapp-hue/KazeteAppDown@main/KazeteApp_V20.apk"
+}
